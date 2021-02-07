@@ -10,7 +10,6 @@ function App() {
     startDate: "2010-01-01",
     endDate: "2007-01-01",
   });
-  console.log("test");
 
   const [chartsVeriler, setChartsVeriler] = useState({
     labels: [],
